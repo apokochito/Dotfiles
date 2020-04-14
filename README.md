@@ -1,1 +1,1 @@
-# My configuration
+# My mac and windows configuration
