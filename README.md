@@ -1,1 +1,1 @@
-# My mac and windows configuration
+# My mac and windows software configuration
